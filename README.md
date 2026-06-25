@@ -113,6 +113,14 @@ The book teaches you to build. The companion teaches you to operate. These are t
 
 ---
 
+## See It In Action
+
+**[Khali MVP](https://github.com/ciscoittech/khali-mvp)** is a YouTube Shorts factory built on the same framework in one evening. Clone it, run it, make videos. It uses all four concepts: Instruction (skill files that define the video pipeline), Memory (trend scores and production stats persist), Control (approval step prevents bad scripts from becoming bad videos), and Flow (YouTube link in, finished video out).
+
+Khali is free and open source. It's what the book's framework looks like when someone who already uses AI applies systems thinking to their workflow.
+
+---
+
 ## Read the Free Chapter
 
 **[Chapter 2: Why That Worked (And Why Most AI Doesn't)](book/chapters/ch02-v4-draft.md)** — The diagnostic framework that lets you identify what's broken in any AI interaction in 60 seconds. No setup required. Includes the free Build Coach prompt.
