@@ -231,6 +231,16 @@ You don't need to build any of that right now. You just need to see the gap. The
 
 ---
 
+## The Build Coach
+
+Every chapter in this book comes with a Build Coach: a prompt you paste into any AI tool alongside the chapter. The AI becomes a guided tutor for that chapter's build, checking your work against the quality gate and pointing to specific sections when you're stuck.
+
+This chapter's Build Coach is free. Copy it from the companion materials at `book/companion/build-coach-prompts.md` or from the book's public repository. Paste it into ChatGPT, Claude, Gemini, or whatever you already use. Then paste this chapter. The Build Coach will walk you through the diagnostic exercise and check your answers.
+
+No setup. No account. No API key. It works with whatever AI tool you have right now. Build Coach prompts for the remaining 16 chapters come with the full book.
+
+---
+
 ## Quality Gate
 
 You know this chapter worked when:
